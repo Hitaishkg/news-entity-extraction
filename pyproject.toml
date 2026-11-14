@@ -1,7 +1,7 @@
 [project]
 name = "news-entity-extraction"
 version = "0.1.0"
-description = "Add your description here"
+description = "Take-home: article cleaning, extraction evaluation and an entity graph"
 readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
